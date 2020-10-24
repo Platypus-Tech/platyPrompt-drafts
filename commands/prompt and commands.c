@@ -31,7 +31,7 @@ main(){
 	
 	type commandPrompt() {
 		
-		while(1) { // This will make it just put the command prompt on screen forever, which would be a majorly bad 					glitch. Must change ASAP, but not sure how
+		while(1) { // This will make it just put the command prompt on screen forever, which would be a majorly bad glitch. Must change ASAP, but not sure				how
 			printf("%c \n", prompt);
 			
 			if // something = poweroff						 // It's because I'm not sure how to get user input and 			put it on screen. That's the holdup.
