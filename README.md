@@ -1,8 +1,8 @@
-# Command Line OS drafts
+# platyPrompt
 
 ## About
 
-This is a special command line for Platypus OS, right now the name is just Platypus Command Name. It is going to be one of 3 or 4 command line interfaces, with the others being:
+This is a special command line for Platypus OS. It is going to be one of 3 or 4 command line interfaces, with the others being:
 
   1. Bash shell
   2. CROSH, which nobody knows how to use, due to a lack of documentation
