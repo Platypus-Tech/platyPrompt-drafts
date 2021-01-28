@@ -1,14 +1,14 @@
-/*************************************************************************************
+/*****************************************************************************************
  * This code is licensed under the GNU General Public License, a copy of which is	 *
  * located in the COPYING file. In other words, you can do whatever with the code,	 *
  * you have to put a copy of the license in any versions you release, and it's not	 *
- * our fault if it breaks. This file (not the license) was created by Platypus Tech, *
- * (mainly Damien Chambliss). Also, the code is for the command platypusOS, which is *
- * a fun command that is part command, part easter egg.	I just thought it would be a *
- * good idea to put that here, because the BASH shell source does.					 *
- *************************************************************************************/
-// The always important "stdio.h" header file
-#include <stdio.h>
+ * our fault if it breaks. This file (not the license) was created by Platypus Tech,	 *
+ * (mainly Damien Chambliss). Also, the code is for the command platypusOS, which is	 *
+ * a fun command that is part command, part easter egg.	I just thought it would be a	 *
+ * good idea to put that here, because the BASH shell source does.			 *
+ *****************************************************************************************/
+// The always important "cprompt.h" header file
+#include <../lib/cprompt.h>
 int main(){
 // A few important variables
 	char input // for when we are recieving input, notice no value
