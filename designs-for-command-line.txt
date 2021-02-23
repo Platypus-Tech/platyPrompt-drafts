@@ -2,8 +2,8 @@
      |       |        /
      |       |        |
 +---------------------------------------------------------------------------------------------+
-| user@platypusOS~:  $  command goes here                                                     |
-|                       command output goes here                                              |
+| user@platypusOS:~$ command goes here                                                        |
+|                    command output goes here                                                 |
 | and on and on and on etc.                                                                   |
 |                                                                                             |
 |                                                                                             |
