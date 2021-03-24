@@ -7,6 +7,7 @@ This is a special command line for Platypus OS. It is going to be one of 3 or 4 
   1. Bash shell
   2. CROSH, which nobody knows how to use, due to a lack of documentation
   3. The Minecraft one, Brigadier
+
 This one is going to have good documentation, unlike CROSH. (If there is good, simple documentation on CROSH, tell me please? I hate giving bad press).
 
 ## Use
