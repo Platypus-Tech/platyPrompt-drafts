@@ -2,7 +2,7 @@
  * This is the file "help.c" for the builtin command in the 	 *
  * Platypus OS shell, "help".									 *
  *****************************************************************/
-#include <../lib/cprompt.h>
+#include "../lib/prompt.h"
 // Ok, on to the fun stuff!
 
 int main(){
