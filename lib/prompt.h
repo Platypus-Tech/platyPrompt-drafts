@@ -1,5 +1,5 @@
-#ifdef CPROMPT_H
-
+#ifdef PROMPT_H
+#define PROMPT_H
 // Important libraries
 
 #include<stdio.h>
@@ -18,5 +18,6 @@ void prscnPrompt();
 
 void prscnPrompt(){
 	printf("%s", prompt);
-	scanf("%s", input);
+	gets("%s", input);
 }
+#endif /* PROMPT_H */
