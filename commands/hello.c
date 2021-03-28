@@ -1,4 +1,4 @@
-#include '../cprompt.h'
+#include '../lib/prompt.h'
 
 int main(){
     if (input == "hello" || "Hello" || "HeLlO"){
